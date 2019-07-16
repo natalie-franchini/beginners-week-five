@@ -7,19 +7,19 @@ body {
 }
 
 .bg-dark{
-  background-color: tomato !important;
+  background-color: pink !important;
 }
 
 .navbar-dark .navbar-brand {
-    color: #4a4a4a;
+    color: black;
   }
 
   .navbar-dark .navbar-nav .active>.nav-link{
-    color: green;
+    color: purple;
   }
 
   .btn-primary {
-    color: #fff;
-    background-color: peru;
+    color: purple;
+    background-color: pink;
     border-color: white;
 }
